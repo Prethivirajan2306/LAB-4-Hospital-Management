@@ -28,9 +28,7 @@ This application provides a way to record this information and to access these i
 
 ![HOSPITAL COMMUNICATION](https://github.com/23005529/LAB-4-Hospital-Management/assets/139842207/13295fce-fc6f-44a0-9cb0-c59e2be2c0ab)
 
-#### STATECHART DIAGRAM :
 
-![HOSPITAL STATE CHART](https://github.com/23005529/LAB-4-Hospital-Management/assets/139842207/dedbc4ce-69e6-4104-8c0f-ee8dc123254c)
 
 #### ACTIVITY DIAGRAM :
 
